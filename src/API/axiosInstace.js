@@ -1,5 +1,5 @@
 import axios from "axios";
 export const axiosInstance = axios.create({
-    baseURL: "https://projectlc-0ft2.onrender.com",
+    baseURL: "https://project-lc.vercel.app",
     withCredentials: true,
 });
